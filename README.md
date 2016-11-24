@@ -15,6 +15,7 @@ Tone and Audio Waveform Generator
 - Library
   - https://ccrma.stanford.edu/software/stk/
 - Source
+  - https://github.com/audacity/audacity
   - https://github.com/xobs/tone-generator
   - https://github.com/lirongyuan/Music-Generator
   - https://github.com/JesseNolan/Waveform_Generator
